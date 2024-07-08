@@ -11,4 +11,4 @@ Project Goals and Objectives:
 6. Study the trends in international energy product exports from 2000 to 2022.
 
 Here is the link for visualizations on shinyapp: https://vytenisprojects.shinyapps.io/renewable_energy/
-Or you can open app.R file to see the code and even run it by yourself also with the data (Duomenys.zip)
+ or you can open app.R file to see the code and even run it by yourself also with the data (Duomenys.zip)
