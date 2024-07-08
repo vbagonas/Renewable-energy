@@ -9,3 +9,5 @@ Project Goals and Objectives:
 4. Assess the impact of renewable energy consumption on greenhouse gas emissions.
 5. Compare the maintenance costs and efficiency of different renewable energy generation technologies from 2010 to 2022.
 6. Study the trends in international energy product exports from 2000 to 2022.
+
+Here is the link for visualizations on shinyapp: https://vytenisprojects.shinyapps.io/renewable_energy/
